@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "486374878930",
+    "firebase_url": "https://student-care-81935.firebaseio.com",
+    "project_id": "student-care-81935",
+    "storage_bucket": "student-care-81935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486374878930:android:4160014d96f38efe",
+        "android_client_info": {
+          "package_name": "com.techsol.danny.studentcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486374878930-t50icd4pmqctebdisp3ij4dbfltkosmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxe29AiEgl_HHT1ZTqgft4mGBfxx6BZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
